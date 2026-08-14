@@ -2,11 +2,11 @@
 
 ## Публичный адрес
 
-После включения GitHub Pages адрес сайта будет: `https://mosaicin.github.io/museum-drawing-archive/`.
+Открытый исходный код и файлы: `https://github.com/mosaicin/museum-drawing-archive`.
 
-Репозиторий уже открыт: `https://github.com/mosaicin/museum-drawing-archive`.
+Подтверждённый бесплатный preview: `https://cdn.jsdelivr.net/gh/mosaicin/museum-drawing-archive@main/index.html`.
 
-Чтобы включить бесплатный хостинг вручную, откройте **Settings → Pages**, выберите **Deploy from a branch**, ветку `main`, папку `/(root)` и нажмите **Save**. После завершения публикации GitHub Pages будет доступен по указанному адресу.
+Адрес `https://mosaicin.github.io/museum-drawing-archive/` пока не активен: GitHub Pages требует ручного включения владельцем репозитория. Для постоянного адреса откройте **Settings → Pages**, выберите **Deploy from a branch**, ветку `main`, папку `/(root)` и нажмите **Save**. После публикации Pages адресом будет `https://mosaicin.github.io/museum-drawing-archive/`.
 
 Полноценная открытая 3D-прогулка по безопасному пользовательскому фотоархиву. Это уже не витрина с наклонёнными карточками, а последовательный маршрут через десять музейных залов.
 
